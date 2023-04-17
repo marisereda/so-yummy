@@ -1,8 +1,8 @@
 {
-  "name": "react-command-project",
+  "name": "so-yummy",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://DariaTufar.github.io/command_project_React_Node/",
+  "homepage": "https://marisereda.github.io/so-yummy/",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
