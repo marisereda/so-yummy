@@ -307,6 +307,7 @@ export const Btn = styled.button`
   border-radius: 6px;
   outline: rgba(0, 0, 0, 0.2);
   background-color: ${p => p.theme.colors.footerSubscribeButtonBG};
+  color: ${p => p.theme.colors.primaryLightTextNoChange};
   font-size: 14px;
   line-height: 1.14;
   margin-top: 8px;
