@@ -318,7 +318,7 @@ export const Btn = styled.button`
 
   &:hover:valid,
   :focus:valid {
-    color: ${p => p.theme.colors.buttonColor};
+    color: ${p => p.theme.colors.primaryLightTextNoChange};
   }
   @media screen and (min-width: 768px) {
     margin-bottom: 0px;
